@@ -1,0 +1,6 @@
+export const LOGIN = 'LOGIN';
+export const GET_WORKSPACE_ID = 'GET_WORKSPACE_ID';
+export const GET_FLOW_ID = 'GET_FLOW_ID';
+export const GET_CHANNEL_DETAILS = 'GET_CHANNEL_DETAILS';
+export const UPDATE_RESPONSE_KEY = 'UPDATE_RESPONSE_KEY';
+export const UPDATE_INPUT = 'UPDATE_INPUT';

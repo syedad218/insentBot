@@ -1,0 +1,42 @@
+{
+  "name": "github-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "pusher-js": "^4.4.0",
+    "react": "^16.8.6",
+    "react-chat-widget": "^2.1.4-1",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.0.3",
+    "react-scripts": "3.0.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.86.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "axios": "^0.18.0"
+  }
+}
